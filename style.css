@@ -1,3 +1,44 @@
 h1, h2 {
   font-family: Lato;
+  
 }
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+}
+
+.title {
+  text-align: center;
+  
+}
+.img{
+  align-content: center;
+}
+.accordion {
+  background-color:#eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  text-align: left;
+  border: none;
+  outline: none;
+  transition: 0.4s;
+  
+}
+body{
+  background-color: #012169;
+}
+h1{
+  border-color: yellow;
+  border-style: solid;
+}
+.title3{
+  border-color: #BA2123;
+  border-style: solid;
+}
+
+
