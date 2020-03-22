@@ -1,5 +1,6 @@
-h1, h2 {
+h1, h2, h3 {
   font-family: Lato;
+  
   
 }
 .row {
@@ -17,18 +18,7 @@ h1, h2 {
 .img{
   align-content: center;
 }
-.accordion {
-  background-color:#eee;
-  color: #444;
-  cursor: pointer;
-  padding: 18px;
-  width: 100%;
-  text-align: left;
-  border: none;
-  outline: none;
-  transition: 0.4s;
-  
-}
+
 body{
   background-color: #012169;
 }
@@ -40,5 +30,6 @@ h1{
   border-color: #BA2123;
   border-style: solid;
 }
+
 
 
